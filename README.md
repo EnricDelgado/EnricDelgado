@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**EnricDelgado/EnricDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning to keep it together
+- ⚡ Fun fact: I'm not quite good at it
+
+---
+
+## 🌐 Socials:
+[![Website]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/Website-5603fc.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9Il94MzJfIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCjwhW0NEQVRBWw0KCS5zdDB7ZmlsbDojMDAwMDAwO30NCl1dPg0KPC9zdHlsZT4NCjxnPg0KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNzguMTcyLDI5Ny4zNzVsLTUxLjIwMyw1MS4xODhjMC4wMTYsMC41OTQsMC4wMzEsMS4xODgsMC4wMzEsMS43ODFjMCw4LjQwNi0xLjU5NCwxNi43ODEtNC43NjYsMjQuNjI1DQoJCWMtMy4yMDMsNy44MTMtNy45MjIsMTUuMTU2LTE0LjM3NSwyMS41NjNsLTMzLjY3MiwzMy43MTljLTYuNDUzLDYuNDM4LTEzLjc2NiwxMS4xNTYtMjEuNjA5LDE0LjM0NA0KCQljLTcuODU5LDMuMTg4LTE2LjIxOSw0Ljc4MS0yNC42MDksNC43ODFjLTguMzc1LDAtMTYuNzUtMS41OTQtMjQuNTk0LTQuNzVjLTcuODQ0LTMuMjE5LTE1LjE1Ni03LjkzOC0yMS42MjUtMTQuMzc1DQoJCWMtNi40MzgtNi40MzgtMTEuMTU2LTEzLjc1LTE0LjM0NC0yMS41OTRzLTQuNzgxLTE2LjIxOS00Ljc4MS0yNC42MjVjMC04LjM3NSwxLjU5NC0xNi43NSw0Ljc4MS0yNC41OTQNCgkJczcuOTA2LTE1LjE1NiwxNC4zNDQtMjEuNjI1bDMzLjcxOS0zMy42ODhjNi40MzgtNi40MDYsMTMuNzM0LTExLjE1NiwyMS41OTQtMTQuMzQ0YzcuODI4LTMuMTg4LDE2LjIxOS00Ljc4MSwyNC41OTQtNC43ODENCgkJYzAuNTk0LDAsMS4xODgsMC4wMzEsMS43NjYsMC4wNjNsNTEuMjAzLTUxLjIzNGMtMS41OTQtMC43MzQtMy4yMDMtMS40MjItNC44NDQtMi4wNzhjLTE1LjQyMi02LjI1LTMxLjc4MS05LjM3NS00OC4xMjUtOS4zNzUNCgkJcy0zMi43MTksMy4xMjUtNDguMTI1LDkuMzc1Yy0xNS40MjIsNi4yNS0yOS45MDYsMTUuNjg4LTQyLjM1OSwyOC4wOTRsLTMzLjY4OCwzMy43MTljLTEyLjQzOCwxMi40MDYtMjEuODU5LDI2LjkwNi0yOC4xMDksNDIuMzQ0DQoJCVMwLDM2Ny42ODgsMCwzODQuMDMxczMuMTI1LDMyLjcxOSw5LjM3NSw0OC4xNTZjNi4yNSwxNS40MDYsMTUuNjcyLDI5LjkwNiwyOC4xMDksNDIuMzEzDQoJCWMxMi40MjIsMTIuNDY5LDI2LjkyMiwyMS45MDYsNDIuMzQ0LDI4LjEyNWMxNS40MzgsNi4yODEsMzEuNzk3LDkuMzc1LDQ4LjE0MSw5LjM3NWMxNi4zNTksMCwzMi43MTktMy4wOTQsNDguMTQxLTkuMzc1DQoJCWMxNS40MjItNi4yMTksMjkuOTIyLTE1LjY1Niw0Mi4zNDQtMjguMTI1bDMzLjcwMy0zMy42NTZjMTIuNDIyLTEyLjQ2OSwyMS44NDQtMjYuOTM4LDI4LjEwOS00Mi4zNDQNCgkJYzYuMjY2LTE1LjQ2OSw5LjM1OS0zMS44MTMsOS4zNzUtNDguMTU2Yy0wLjAxNi0xNi4zMTMtMy4xMDktMzIuNjg4LTkuMzc1LTQ4LjE1Ng0KCQlDMjc5LjU5NCwzMDAuNTk0LDI3OC44OTEsMjk4Ljk2OSwyNzguMTcyLDI5Ny4zNzV6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTUwMi42MjUsNzkuODQ0Yy02LjI1LTE1LjQzOC0xNS42NzItMjkuOTM4LTI4LjEwOS00Mi4zNTljLTEyLjQyMi0xMi40MjItMjYuOTIyLTIxLjg1OS00Mi4zNTktMjguMTA5DQoJCUM0MTYuNzM0LDMuMTI1LDQwMC4zNzUsMCwzODQuMDMxLDBzLTMyLjcxOSwzLjEyNS00OC4xNDEsOS4zNzVzLTI5LjkyMiwxNS42ODgtNDIuMzQ0LDI4LjEwOWwtMzMuNzAzLDMzLjcwMw0KCQlDMjQ3LjQyMiw4My41OTQsMjM4LDk4LjA5NCwyMzEuNzM0LDExMy41MzFjLTYuMjY2LDE1LjQwNi05LjM1OSwzMS43ODEtOS4zNTksNDguMTQxYzAsMTYuMzQ0LDMuMDk0LDMyLjcwMyw5LjM1OSw0OC4xNDENCgkJYzAuNjcyLDEuNjI1LDEuMzU5LDMuMjE5LDIuMDk0LDQuODI4bDUxLjIwMy01MS4yMDNjLTAuMDE2LTAuNTc4LTAuMDMxLTEuMTU2LTAuMDMxLTEuNzY2YzAtOC4zOTEsMS41OTQtMTYuNzgxLDQuNzgxLTI0LjYwOQ0KCQljMy4xODgtNy44NDQsNy45MDYtMTUuMTU2LDE0LjM1OS0yMS42MjVsMzMuNjcyLTMzLjY4OGM2LjQ1My02LjQwNiwxMy43NjYtMTEuMTQxLDIxLjYyNS0xNC4zNDQNCgkJYzcuODEzLTMuMTU2LDE2LjIwMy00Ljc4MSwyNC41OTQtNC43ODFjOC40MDYsMCwxNi43NSwxLjYyNSwyNC42MjUsNC43ODFjNy44MTMsMy4yMDMsMTUuMTQxLDcuOTM4LDIxLjU5NCwxNC4zNDQNCgkJYzYuNDM4LDYuNDY5LDExLjE1NiwxMy43ODEsMTQuMzQ0LDIxLjYyNWMzLjE1Niw3Ljg0NCw0Ljc4MSwxNi4yMTksNC43ODEsMjQuNTk0YzAsOC4zOTEtMS42MjUsMTYuNzUtNC43ODEsMjQuNjI1DQoJCWMtMy4xODgsNy44NDQtNy45MDYsMTUuMTU2LTE0LjM0NCwyMS41OTRsLTMzLjY4OCwzMy42ODhjLTYuNDM4LDYuNDM4LTEzLjc2NiwxMS4xNTYtMjEuNjI1LDE0LjM0NA0KCQljLTcuODI4LDMuMTg4LTE2LjIwMyw0Ljc4MS0yNC41OTQsNC43ODFjLTAuNTk0LDAtMS4xODgtMC4wMTYtMS43NjYtMC4wMzFsLTUxLjIwMyw1MS4yMTljMS41OTQsMC43MTksMy4yMDMsMS40MjIsNC44MTMsMi4wNjMNCgkJYzE1LjQ1Myw2LjI4MSwzMS44MTMsOS40MDYsNDguMTU2LDkuNDA2czMyLjcxOS0zLjEyNSw0OC4xMjUtOS40MDZjMTUuNDIyLTYuMjUsMjkuOTA2LTE1LjY3Miw0Mi4zNTktMjguMDk0bDMzLjY4OC0zMy43MDMNCgkJYzEyLjQzOC0xMi40MjIsMjEuODU5LTI2LjkyMiwyOC4xMDktNDIuMzU5YzYuMjUtMTUuNDA2LDkuMzc1LTMxLjc4MSw5LjM3NS00OC4xMjVTNTA4Ljg3NSw5NS4yNSw1MDIuNjI1LDc5Ljg0NHoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTYwLjIxOSwzNTEuNzgxYzEyLjIzNCwxMi4yNSwzMi4wNjMsMTIuMjUsNDQuMjgxLDBMMzUxLjc4MSwyMDQuNWMxMi4yMTktMTIuMjE5LDEyLjI1LTMyLjAzMSwwLTQ0LjI4MQ0KCQljLTEyLjIzNC0xMi4yMTktMzIuMDYzLTEyLjIxOS00NC4yODEsMEwxNjAuMjE5LDMwNy41MzFDMTQ4LDMxOS43NSwxNDgsMzM5LjU2MywxNjAuMjE5LDM1MS43ODF6Ii8+DQo8L2c+DQo8L3N2Zz4=&logoColor=white))](https://www.enrictech.art)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enric-delgado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enricdelgadoclaramunt) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EnricDelgado&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EnricDelgado&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricDelgado&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EnricDelgado&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EnricDelgado&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=EnricDelgado&icon=10&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
